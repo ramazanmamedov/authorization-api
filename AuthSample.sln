@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication.API", "Authentication.API\Authentication.API.csproj", "{C67FE252-55D0-41F1-8E28-D8B62075BDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeClient.API", "AwesomeClient.API\AwesomeClient.API.csproj", "{873C28DA-5784-4C83-8CF3-8085E7546A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67FE252-55D0-41F1-8E28-D8B62075BDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67FE252-55D0-41F1-8E28-D8B62075BDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67FE252-55D0-41F1-8E28-D8B62075BDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67FE252-55D0-41F1-8E28-D8B62075BDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873C28DA-5784-4C83-8CF3-8085E7546A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873C28DA-5784-4C83-8CF3-8085E7546A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873C28DA-5784-4C83-8CF3-8085E7546A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873C28DA-5784-4C83-8CF3-8085E7546A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
